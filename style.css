@@ -1,0 +1,142 @@
+body {
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Source Sans 3', sans-serif;
+}
+#headerSection{
+    height: 120px;
+    font-weight: 900
+}
+#headerSection nav{
+    padding: 0px;
+    background-color: white;
+}
+#headerSection nav img{
+    margin: 0 0 0 100px;
+}
+.dropdown button{
+    font-weight: 900;
+    color: #616264;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.dropdown:hover{
+    color: red;
+    border-bottom: 3px solid red;
+    border-radius: none;
+}
+.nav-link i{
+    font-size: 22px;
+    color: #616264;
+    margin-right: 22px;
+}
+.nav-link:hover{
+    color: red;
+    border-bottom: 3px solid red;
+}
+.carousel-item img{
+    height: 460px;
+}
+#CarouselSection{
+    margin: -55px 10px;
+}
+.carousel-indicators button{
+    width: 10px !important;
+    height: 10PX !important;
+    border-radius: 100%;
+    margin: 0PX 7PX !important;
+    background-color: #117a7a !important;
+}
+.carousel-indicators{
+    position: absolute;
+    top: 485px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 1000;
+    color: #282c3f;
+}
+#latestSection{
+    margin-top: 24px;
+}
+/* #categoriesSection{
+    padding: 65px 0 0 0;
+} */
+
+/* .card-img-top:hover{
+transform: scale(1.2);
+} */
+/* .row{
+    padding: 2px 19px;
+}
+.col{
+   padding: 11px 8px 0px 0px;
+} */
+/* .row-cols-1{
+    padding: 0 0 0 0 ;
+} */
+#latestSection1 div img{
+    width: 423px;
+    margin: 65px 12px;
+}
+#newaSection{
+    margin-top: -40px;
+}
+#newaSection1 div img{
+    width: 310px;
+    margin: 13px 12px;
+}
+#sbcSection{
+    margin-top: 24px;
+}
+#sbcSection1 div img{
+    width: 433px;
+    margin: 17px 7px;
+}
+#categorieSection1 img{
+    width: 430px;
+    margin: 17px 7px;
+}
+#categorieSection2{
+    display: inline-block;
+    padding: 0;
+}
+#categorieSection2 li{
+    display: inline-block;
+    overflow: hidden;
+    width: 334px;
+    height: 316px;
+}
+#categorieSection2 li img{
+    width: 316px;
+    margin: 0px 0px 0 6px;
+}
+#shopbyoSection{
+    margin-top: 24px;
+}
+#shopbyoSection div img{
+    width: 433px;
+    margin: 17px 7px;
+}
+#merchantSection{
+    margin-top: 24px;
+}
+#merchantSection1 div img{
+    width: 253px !important;
+    margin: 17px 7px !important;
+    height: 190px !important;
+}
+#topsellingSection{
+    margin-top: 24px;
+}
+#topsellingSection1 div img{
+    width: 320px !important;
+    margin: 17px 7px !important;
+}
+#membSection{
+    margin-top: 24px;
+}
+#membSection img{
+    margin-top: 24px;
+    width: 100%;
+}
